@@ -27,11 +27,9 @@
   display: none;
 }
 
-#wall .parent div:last-child #tag-7 { 
+
+
+body div#wall div.parent div > #tag-7.slick {
   display: none;
 }
 
-#wall div.parent div > #tag-7.slick { 
-  display: none;
-}
- 
