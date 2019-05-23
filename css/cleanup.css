@@ -31,5 +31,7 @@
   display: none;
 }
 
-
+#wall div.parent div > #tag-7.slick { 
+  display: none;
+}
  
