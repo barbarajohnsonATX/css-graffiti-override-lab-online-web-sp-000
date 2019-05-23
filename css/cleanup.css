@@ -27,4 +27,9 @@
   display: none;
 }
 
+#wall .parent div:last-child #tag-7 { 
+  display: none;
+}
+
+
  
