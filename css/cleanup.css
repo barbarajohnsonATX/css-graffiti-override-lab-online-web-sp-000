@@ -25,5 +25,7 @@
 
 body #wall div.parent div > #tag-7.slick {
   display: none;
+    visibility: hidden;
+
 }
 
