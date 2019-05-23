@@ -1,1 +1,8 @@
 /* write your override styles here */
+.tag-1 {
+  visibility: hidden;
+}
+
+#tag-2, #tag-4, #tag-3, #tag-5, #tag-6, #tag-7{
+  visibility: hidden;
+}
