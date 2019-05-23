@@ -7,6 +7,11 @@
   display: none;
 }
 
+#wall #tag-3.slick, .wicked{ 
+  display: none;
+}
+
+
 #wall #tag-4 {
   display: none;
 }
@@ -14,9 +19,6 @@
 
 
 
-#wall #tag-3.slick, .wicked{ 
-  display: none;
-}
 
 #wall div.parent #tag-5.slick { /*223*/
   display: none;
